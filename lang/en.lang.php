@@ -71,7 +71,7 @@ $sm_lang = array(
 		'monitoring' => 'Monitoring',
 		'send_email' => 'Send Email',
 		'send_sms' => 'Send SMS',
-		'updated' => 'Server updated.',
+		'updated' => 'Server updated',
 		'inserted' => 'Server added.',
 		'rtime' => 'Response time',
 	),
