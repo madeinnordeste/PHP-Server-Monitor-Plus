@@ -1,5 +1,8 @@
 body{
     padding-top:70px;
+} 
+body.install{
+    padding-top:20px;     
 }
 .label-status-on{
     background-color: #468847;
