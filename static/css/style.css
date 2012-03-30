@@ -23,3 +23,6 @@ body{
 .footer a{
     font-weight:bold;
 }
+div.tabbable ul.nav-tabs li{
+    font-weight:bold;
+}
