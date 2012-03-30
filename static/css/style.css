@@ -15,3 +15,11 @@ body{
     text-align:right;
     padding:10px 0px 10px 0px;
 }
+.footer{
+    margin-top:20px;
+    border-top:1px solid #EEEEEE;
+    padding-top:10px;
+}
+.footer a{
+    font-weight:bold;
+}
