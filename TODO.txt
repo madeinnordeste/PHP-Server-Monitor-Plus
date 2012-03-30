@@ -1,8 +1,9 @@
-    [ok] main.tpl.html
-config.tpl.html
 install.tpl.html
+users.tpl.html
+    [ok] main.tpl.html
     [ok] log.tpl.html
     [ok] servers.tpl.html
-users.tpl.html
+    [ok] config.tpl.html
+
 
 - atualizar as classes do form
