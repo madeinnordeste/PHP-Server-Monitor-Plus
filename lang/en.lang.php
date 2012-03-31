@@ -95,20 +95,16 @@ $sm_lang = array(
 		'sms_gateway_username' => 'Gateway username',
 		'sms_gateway_password' => 'Gateway password',
 		'sms_from' => 'Sender\'s phone number',
-		'alert_type' =>
-			'Select when you\'d like to be notified.<br/>'.
-			'<div class="small">'.
- 			'1) Status change<br/>'.
-			'You will receive a notifcation when a server has a change in status. So from online -> offline or offline -> online.<br/>'.
-			 '2) Offline<br/>'.
-			'You will receive a notification when a server goes offline for the *FIRST TIME ONLY*. For example, '.
-			'your cronjob is every 15 mins and your server goes down at 1 am and stays down till 6 am. '.
-			'You will get 1 notification at 1 am and thats it.<br/>'.
-			'3) Always<br/>'.
-			'You will receive a notification every time the script runs and a site is down, even if the site has been '.
-			'offline for hours.'.
-			'</div>',
-
+		'alert_type' => 'Select when you\'d like to be notified.<br/>',
+        'alert_type_description' => '<b>Status change:</b> '.
+		    'You will receive a notifcation when a server has a change in status. So from online -> offline or offline -> online.<br/>'.
+		    '<br /><b>Offline:</b> '.
+		    'You will receive a notification when a server goes offline for the *FIRST TIME ONLY*. For example, '.
+		    'your cronjob is every 15 mins and your server goes down at 1 am and stays down till 6 am. '.
+		    'You will get 1 notification at 1 am and thats it.<br/>'.
+		    '<br><b>Always:</b> '.
+		    'You will receive a notification every time the script runs and a site is down, even if the site has been '.
+		    'offline for hours.',
 		'alert_type_status' => 'Status change',
 		'alert_type_offline' => 'Offline',
 		'alert_type_always' => 'Always',
