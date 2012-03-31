@@ -29,3 +29,9 @@ body.install{
 div.tabbable ul.nav-tabs li{
     font-weight:bold;
 }
+legend{
+    border-color: -moz-use-text-color -moz-use-text-color #CCCCCC;
+}
+.form-actions {
+    background-color: transparent;
+}
