@@ -20,3 +20,7 @@ This project is a upgrade interface for [PHP Server Monitor](http://phpservermon
 
 
 - - -
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/madeinnordeste/php-server-monitor-plus/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
