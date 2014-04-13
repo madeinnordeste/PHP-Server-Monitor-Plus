@@ -1,3 +1,6 @@
+>The new version of phpservermon was released, contains new features and improvements. Strongly advise using it.
+Check in [**phpservermon**](https://github.com/phpservermon/phpservermon) on github.
+
 # PHP Sevrer Monitor Plus
 
 This project is a upgrade interface for [PHP Server Monitor](http://phpservermon.sourceforge.net), using [Twitter Bootstrap](http://twitter.github.com/bootstrap/).
